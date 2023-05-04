@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
 p span:first-child,
-p span:nth-last-child(-n+2) {
+p span:nth-last-child(n) {
   color: red;
 }
